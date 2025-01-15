@@ -1,5 +1,5 @@
 # BinaryAutoTyperCUBED
 V2 of the [BinaryAutoTyper](https://github.com/GQster/BinaryAutoTyper)
 
-Working on the [CAD](https://cad.onshape.com/documents/17e8fa392f855cee4728652e/w/28e0606158a2114228202d33/e/90f0014f7eb05f541a832ad4?renderMode=0&uiState=678027b61c37407f3b4b9b03)
+Working on the [CAD](https://cad.onshape.com/documents/4cdc15376fc7a4f7feebc65d/w/b547e15d5af134a5ef44eeb4/e/14dfbe660921e98672a3ddb7?renderMode=0&uiState=678803721634397f8a056115)
 
